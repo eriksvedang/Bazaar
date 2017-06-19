@@ -1,0 +1,69 @@
+* BAZAAR
+** A casual MtG format.
+* Deck building rules
+** At least 45 cards in the deck.
+** Maximum 3 copies of the same card.
+** No sideboard.
+** Maximum total of 10 _influence_ in the deck:
+*** Commons cost no influence.
+*** Uncommons cost 1 influence.
+*** Rares cost 2 influence.
+*** Mythic rares cost 3 influence.
+** If a card has been printed with multiple rarity levels, use the rarity of your actual copy.
+* Banned cards
+** Bazaar uses the current Legacy banned list (http://magic.wizards.com/en/game-info/gameplay/formats/legacy)
+9 cards that reference "playing for ante." Click here for list.
+Ancestral Recall
+Balance
+Bazaar of Baghdad
+Black Lotus
+Channel
+Chaos Orb
+Demonic Consultation
+Demonic Tutor
+Dig Through Time
+Earthcraft
+Falling Star
+Fastbond
+Flash
+Frantic Search
+Goblin Recruiter
+Gush
+Hermit Druid
+Imperial Seal
+Library of Alexandria
+Mana Crypt
+Mana Drain
+Mana Vault
+Memory Jar
+Mental Misstep
+Mind Twist
+Mind's Desire
+Mishra's Workshop
+Mox Emerald
+Mox Jet
+Mox Pearl
+Mox Ruby
+Mox Sapphire
+Mystical Tutor
+Necropotence
+Oath of Druids
+Shahrazad
+Skullclamp
+Sol Ring
+Strip Mine
+Survival of the Fittest
+Time Vault
+Time Walk
+Timetwister
+Tinker
+Tolarian Academy
+Treasure Cruise
+Vampiric Tutor
+Wheel of Fortune
+Windfall
+Yawgmoth's Bargain
+Yawgmoth's Will
+
+* Restricted cards
+** There are no restricted cards in this format.
