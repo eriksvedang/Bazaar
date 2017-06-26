@@ -67,3 +67,13 @@ Yawgmoth's Will
 
 * Restricted cards
 ** There are no restricted cards in this format.
+* Card that are banned in Pauper
+Cloud of Faeries
+Cloudpost
+Cranial Plating
+Empty the Warrens
+Frantic Search
+Grapeshot
+Invigorate
+Temporal Fissure
+Treasure Cruise
